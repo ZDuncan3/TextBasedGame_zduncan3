@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ed69bff31a0ad478912038efaaab32, type: 3}
+  m_Name: Path02
+  m_EditorClassIdentifier: 
+  gameText: I followed the path to a small town, but they are hostile! Luckily I
+    have a weapon to defend myself with! There is a house to my left I can take cover
+    in, or a bridge to my right I can duck behind. Where should I go?
+  otherStates:
+  - {fileID: 11400000, guid: 7da20be3587db96409b327b7ae075ef5, type: 2}
+  - {fileID: 11400000, guid: e5f7d441afe3dfb4190cb03fe458fef2, type: 2}

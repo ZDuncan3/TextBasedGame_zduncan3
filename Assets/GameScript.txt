@@ -1,0 +1,2 @@
+Intro:
+      - Where am I? Where is my ship? There is a path to my left should I follow it? Or should I go right and follow the wreckage trail?

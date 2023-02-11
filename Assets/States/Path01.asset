@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ed69bff31a0ad478912038efaaab32, type: 3}
+  m_Name: Path01
+  m_EditorClassIdentifier: 
+  gameText: I followed the path for a while and stumbled upon a trader! He gave me
+    a pistol and a warning not to trust the people on this planet. Should I continue
+    left along the path? Or should I head back right and try to find my ship?
+  otherStates:
+  - {fileID: 11400000, guid: aef2bef0393888f4fb6ce62b9e207cda, type: 2}
+  - {fileID: 11400000, guid: 7bfeca324603fca45956a85d95e9ccc1, type: 2}

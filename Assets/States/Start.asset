@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ed69bff31a0ad478912038efaaab32, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  gameText: Where am I? Where is my ship? Should I go left and follow this path,
+    or right and follow the wreckage?
+  otherStates:
+  - {fileID: 11400000, guid: a188418eeab2fa045a848835debaf947, type: 2}
+  - {fileID: 11400000, guid: 06d98fdadc09124498fe5e48f5d43b93, type: 2}

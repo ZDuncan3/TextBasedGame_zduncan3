@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ed69bff31a0ad478912038efaaab32, type: 3}
+  m_Name: Mining
+  m_EditorClassIdentifier: 
+  gameText: I was able to mine enough resources to make the parts I need to repair
+    my spaceship and get off this planet!
+  otherStates:
+  - {fileID: 11400000, guid: 0571655c09e5e7e40a84a6f65b987bd2, type: 2}
+  - {fileID: 11400000, guid: 0571655c09e5e7e40a84a6f65b987bd2, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ed69bff31a0ad478912038efaaab32, type: 3}
+  m_Name: WreckageFromPath01
+  m_EditorClassIdentifier: 
+  gameText: I found my ship, but it has been looted! I see some wheel tracks leading
+    left, should I follow them? Or should I enter the forest to my right and make
+    a shelter?
+  otherStates:
+  - {fileID: 11400000, guid: be3eaadf6296e6a49bdcf374840ee4a7, type: 2}
+  - {fileID: 11400000, guid: 4d17bebb98b9c304e9064b18264b323a, type: 2}
